@@ -1,0 +1,124 @@
+
+
+.back{
+
+    background: var(--Primary-Rich-Black, #061E2C);
+  }
+  
+  .container {
+    
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  @media (min-width: 576px) {
+    .container {
+      max-width: 540px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px;
+    }
+  }
+  
+  
+  .min-widthclass{
+    min-width: 121px;
+    border-color: rgba(255, 255, 255, 0.25);
+  }
+  
+  .min-widthclass2{
+    min-width: 94px;
+    border-color: rgba(255, 255, 255, 0.25);
+  
+  }
+  .min-widthclass3{
+    min-width: 97px;
+    border-color: rgba(255, 255, 255, 0.25);
+  }
+  .min-widthclass3:hover, .min-widthclass:hover,.min-widthclass2:hover
+  {
+  
+   background-color:  rgba(222, 233, 238, 1);
+   color: rgba(6, 30, 44, 1);
+  }
+  @media screen and (min-width:992px) {
+    .w-50per{
+      width: 50%;
+    }
+    .flex-till-lg{
+      display: flex;
+    }
+    .row-border{
+      border-radius: 30px;
+       border: 1px rgba(255, 255, 255, 0.25) solid;
+       padding: 30px 55px;
+       display: flex;
+       justify-content: space-around;
+    }
+    .my-relative{
+      position: relative;
+      top: -88px;
+    
+    }
+  }
+  .flex-till-lg{
+    display: block;
+  }
+  .w-50per{
+  width: 100%;
+  }
+  .width-40{
+  width: 90%;
+  }
+  .name-max{
+  width: 100%;
+  margin-bottom: 20px;
+  }
+  .row-border{
+    border-radius: 30px;
+     border: 1px rgba(255, 255, 255, 0.25) solid;
+     padding: 30px 55px;
+     display: block;
+     justify-content: space-around;
+  }
+  .border-right {
+    position: relative;
+  }
+  
+  .border-right::before {
+    content: "";
+    position: absolute;
+    top: 40px; 
+    bottom: 40px; 
+    right: 0;
+    width: 1px; 
+    background-color: rgba(255, 255, 255, 0.08);
+   margin-right: 29px;
+  }
+  .margin-class{
+  
+    margin: 37px 0px 12px;
+  }
+  .max-705{
+    max-width: 705px;
+    min-width: 500px;
+  }
+  

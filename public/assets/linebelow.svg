@@ -1,0 +1,18 @@
+<svg width="1691" height="18" viewBox="0 0 1691 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="81" cy="9" r="6" fill="#20D091"/>
+<circle cx="81" cy="9" r="8.5" stroke="#989CAA" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="3 3"/>
+<circle cx="406" cy="9" r="6" fill="#20D091"/>
+<circle cx="406" cy="9" r="8.5" stroke="#989CAA" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="3 3"/>
+<circle cx="731" cy="9" r="6" fill="#20D091"/>
+<circle cx="731" cy="9" r="8.5" stroke="#989CAA" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="3 3"/>
+<circle cx="1056" cy="9" r="6" fill="#20D091"/>
+<circle cx="1056" cy="9" r="8.5" stroke="#989CAA" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="3 3"/>
+<circle cx="1386" cy="9" r="6" fill="#20D091"/>
+<circle cx="1386" cy="9" r="8.5" stroke="#989CAA" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="3 3"/>
+<path d="M1 9L72 9.00001" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+<path d="M90 9H397" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+<path d="M415 9H722" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+<path d="M740 9L1047 9.00003" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+<path d="M1065 9L1377 9.00003" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+<path d="M1395 9L1691 9.00003" stroke="#989CAA" strokeLinecap="round" strokeDasharray="4 4"/>
+</svg>

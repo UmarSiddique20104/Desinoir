@@ -1,0 +1,342 @@
+/* styles/AboutUs.module.css */
+
+.container {
+  position: relative;
+  display: inline-flex;
+  /* Use inline-flex to align items horizontally */
+  align-items: center;
+}
+
+.featureProjectContainer {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+
+
+.text {
+  z-index: 2;
+  padding: 12px;
+  color: #fff;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+
+.textlight {
+  z-index: 2;
+  padding: 12px;
+  color: #061E2C;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.textService {
+  z-index: 2;
+  padding: 12px;
+  margin: 0;
+  color: #FFF;
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.textServicelight {
+  z-index: 2;
+  padding: 12px;
+  margin: 0;
+  color: #061E2C;
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.arrow {
+  z-index: 2;
+  transition: opacity 0.3s ease;
+}
+
+.circle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ServicesCircle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ServicesCircleLight {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  transition: transform 0.8s ease;
+}
+
+.ServicesCircleDirection {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ServicesCircleDirectionLight {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  ;
+  transition: transform 0.8s ease;
+}
+
+.featureCircle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.featureCircleLight {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  ;
+  transition: transform 0.8s ease;
+}
+
+.featureCircleDirection {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+
+
+.creativeCrewCircle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.creativeCrewCircleDirection {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+
+
+.footerCircle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.footerCirclelight {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ExpertiseCircle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+
+.ExpertiseCircleLight {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ExpertiseCircleDirection {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.ExpertiseCircleDirectionLight {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ECECEC;
+  ;
+  transition: transform 0.8s ease;
+}
+
+
+.footerCircleDireaction {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+.footerCircleDireaction-light {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.5);
+  ;
+  transition: transform 0.8s ease;
+}
+
+
+
+.container:hover .circle {
+  transform: translateX(calc(100% + 70px));
+}
+
+.container:hover .featureCircle {
+  transform: translateX(calc(100% + 200px));
+}
+
+.container:hover .featureCircleDirection {
+  transform: translateX(calc(100% - 225px));
+}
+
+.container:hover .featureCircleLight {
+  transform: translateX(calc(100% + 200px));
+}
+
+.container:hover .featureCircleDirectionLight {
+  transform: translateX(calc(100% - 240px));
+}
+
+.container:hover .creativeCrewCircle {
+  transform: translateX(calc(100% + 83px));
+}
+
+.container:hover .creativeCrewCircleDirection {
+  transform: translateX(calc(100% - 145px));
+}
+
+.container:hover .footerCircle {
+  transform: translateX(calc(100% + 135px));
+}
+
+.container:hover .footerCircleDireaction {
+  transform: translateX(calc(100% - 153px));
+}
+
+.container:hover .footerCirclelight {
+  transform: translateX(calc(100% + 135px));
+}
+
+
+.container:hover .ExpertiseCircle {
+  transform: translateX(calc(100% + 94px));
+}
+
+.container:hover .ExpertiseCircleDirection {
+  transform: translateX(calc(100% - 100px));
+}
+
+.container:hover .ExpertiseCircleLight {
+  transform: translateX(calc(100% + 94px));
+}
+
+.container:hover .ExpertiseCircleDirectionLight {
+  transform: translateX(calc(100% - 100px));
+}
+
+
+.container:hover .ServicesCircle {
+  transform: translateX(calc(100% + 40px));
+}
+
+.container:hover .ServicesCircleLight {
+  transform: translateX(calc(100% + 40px));
+}
+
+.container:hover .ServicesCircleDirection {
+  transform: translateX(calc(100% - 100px));
+}
+
+.container:hover .ServicesCircleDirectionLight {
+  transform: translateX(calc(100% - 100px));
+}
+
+.container:hover .arrow {
+  opacity: 0;
+}
+
